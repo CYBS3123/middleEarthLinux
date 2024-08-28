@@ -1,0 +1,3 @@
+Welcome to the MiddleEarth Navigation Game!
+Your journey begins here. 
+First, navigate to the Shire and find the file in BagEnd to start your adventure.
