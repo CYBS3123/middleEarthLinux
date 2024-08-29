@@ -1,3 +1,9 @@
 Welcome to the MiddleEarth Navigation Game!
 Your journey begins here. 
 First, navigate to the Shire and find the file in BagEnd to start your adventure.
+
+Tip:
+Get out of vim (if in vim) by pressing ESC, then typing colon, then q, then enter.
+Then, type cd Shire. If you see nothing interesting in Shire, continue to go down to the next directory.
+
+

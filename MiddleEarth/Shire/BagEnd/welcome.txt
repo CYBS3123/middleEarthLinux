@@ -1,1 +1,8 @@
-Welcome to MiddleEarth! Your journey begins here. Head to Rivendell for your first clue.
+Gildor here... ummm... I need you to go up two directories, then go to Rivendell.
+Glad you were here, but, everything has a season, you know.
+
+Tips:
+Remember to go up one directory, you type cd ..
+You could go up two directories at once by typing cd ../.. 
+
+

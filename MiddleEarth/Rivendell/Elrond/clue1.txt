@@ -1,1 +1,12 @@
-Elrond says: Your next destination is the ancient Dwarven kingdom. Seek Moria.
+Elrond here: 
+
+I'm your OUPI historian. Your visit will be duly logged.
+Your next destination is Moria, it is two levels up.
+
+Interesting note:  The computer game Moria was developed at OU in 1983.
+It was created by student Robert Alan Koeneke while he was at OU.
+The latest version is now called umoria. It's available for cloning on GitHub.
+
+Tip: 
+Remember, to go up two directories, perform  cd ..   twice.
+Or,    cd ..\..    once. 
