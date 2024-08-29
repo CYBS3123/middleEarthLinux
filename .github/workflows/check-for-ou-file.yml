@@ -1,0 +1,26 @@
+name: Check for ou.txt
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-ou-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for ou.txt in MountDoom directory
+        run: |
+          if [ -f ./MiddleEarth/Mordor/MountDoom/ou.txt ]; then
+            echo "ou.txt found! Test successful."
+          else
+            echo "ou.txt not found! Test failed."
+            exit 1
+          fi
+
